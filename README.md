@@ -9,5 +9,5 @@ During this project we will predict what factors affect the popularity of the so
 
 Each step of the project is explained with the code.
 
-# Defination of k nearest neighbours algorithm: 
+### Defination of k nearest neighbours algorithm: 
 The k-nearest neighbors algorithm, also known as KNN or k-NN, is a non-parametric, supervised learning classifier, which uses proximity to make classifications or predictions about the grouping of an individual data point.
